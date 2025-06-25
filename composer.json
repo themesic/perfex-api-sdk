@@ -1,5 +1,5 @@
 {
-    "name": "gonrowskijordan/perfex-api-sdk",
+    "name": "themesic/perfex-api-sdk",
     "autoload": {
         "psr-4": {
             "PerfexApiSdk\\": "src/",
@@ -12,8 +12,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "gonrowskijordan",
-            "email": "gonrowskijordan@gmail.com"
+            "name": "themesic",
+            "email": "info@themesic.com"
         }
     ],
     "require": {}
