@@ -1,0 +1,20 @@
+{
+    "name": "gonrowskijordan/perfex-api-sdk",
+    "autoload": {
+        "psr-4": {
+            "PerfexApiSdk\\": "src/",
+            "PerfexApiSdk\\Controllers\\": "src/controllers",
+            "PerfexApiSdk\\Models\\": "src/models",
+            "PerfexApiSdk\\Libraries\\": "src/libraries"
+        }
+    },
+    "description": "API server module for Perfex CRM",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gonrowskijordan",
+            "email": "gonrowskijordan@gmail.com"
+        }
+    ],
+    "require": {}
+}
