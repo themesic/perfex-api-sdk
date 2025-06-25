@@ -1,45 +1,24 @@
-# perfex-api-sdk
+# Perfex API SDK for PHP
 
-get_custom_fields
+This SDK wrapper provides a ready-to-use PHP integration layer for the [Perfex CRM REST API](https://1.envato.market/rest-api-for-perfex), making it easy to interact with your CRM programmatically.
 
-get_upload_path_by_type
+## 📦 Installation
 
-app_object_cache
+Via Composer:
 
+```bash
+composer require themesic/perfex-api-sdk
+```
 
+Alternatively, you can clone or download this repository and include it manually in your project.
+## 📝 License
 
-# functions
-handle_custom_fields_post
-send_mail_template
-handle_tags_save
-add_new_sales_item_post
-update_sales_total_tax_column
-add_notification
-pusher_trigger_notification
-get_proposal_item_taxes
-get_items_by_type
-parse_proposal_content_merge_fields
-get_tags_in
-handle_tags_save
-app_archive_short_link
-delete_tracked_emails
-get_primary_contact_user_id
-get_client_id_by_project_id
-get_sql_select_client_company
-get_sql_select_task_assignees_ids
-contact_profile_image_url
+This SDK is open-sourced under the [MIT License](LICENSE).
 
-# library or ...
-app_sms
+## 🙋‍♂️ Support
 
-# tables
-estimates
-newsfeed_post_comments
-newsfeed_posts
-templates
-subscriptions
-dismissed_announcements
-todos
-views_tracking
-taggables
-sales_activity
+For issues, bugs, or feature requests, open an issue here on GitHub or contact us via [CodeCanyon support page](https://1.envato.market/rest-api-for-perfex).
+
+---
+
+© [Themesic Interactive](https://themesic.com)
